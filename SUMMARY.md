@@ -13,11 +13,10 @@
 	* [VI 단축키]
 	* [VI 간단한 실습]
 * [C언어]
-  * [간단한 입출력]
-    * [숫자출력]
-	* [문자출력]
-	* [문자,숫자 출력]
-	* [기타]
+  * [간단한 입출력](./CLanguage/simpleIO/simpleIO.md)
+    * [숫자출력](./CLanguage/simpleIO/printNum.md)
+	* [문자출력](./CLanguage/simpleIO/printChar.md))
+	* [기타](./CLanguage/simpleIO/others.md)
   * [변수]
     * [변수란?]
 	* [데이터타입과 사이즈]
