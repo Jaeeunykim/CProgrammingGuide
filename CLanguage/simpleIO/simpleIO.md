@@ -3,7 +3,7 @@ C언어 문법 공부를 들어가기에 앞서 간단한 입출력을 해볼수
 
 ## Hello World!
 
-```sh
+```c
 #include <stdio.h>
 
 int main()
@@ -14,7 +14,7 @@ int main()
 }
 ```
 
-```sh
+```c
 #include <stdio.h>
 
 int main()
@@ -44,7 +44,7 @@ int main()
 ```
 
 문자로 입력 받고 출력하기
-```sh
+```c
 #include <stdio.h>
 int main()
 {

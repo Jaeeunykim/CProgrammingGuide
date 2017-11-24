@@ -2,7 +2,7 @@
 
 ## %e, %E, %%
 
-```sh
+```c
 #include <stdio.h>
 
 int main()
@@ -24,7 +24,7 @@ int main()
 - %-3d : 필드폭을 3으로 하고 왼쪽에서 부터 정렬 출력
 - %+3d : 필드폭을 3으로 하고 부호를 넣어 출력 
 
-```sh
+```c
 #include <stdio.h>
 
 int main()

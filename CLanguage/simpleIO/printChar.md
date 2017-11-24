@@ -2,7 +2,7 @@
 
 ## %c와 %s 서식을 이용해서 출력해보기 
 
-```sh
+```c
 #include <stdio.h>
 
 int main()

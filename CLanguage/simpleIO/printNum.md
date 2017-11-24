@@ -3,7 +3,7 @@
 ## %d, %i, %x, %o, %f
 
 10진수 출력하기
-```sh
+```c
 #include <stdio.h>
 
 int main()
@@ -16,7 +16,7 @@ int main()
 ```
 
 10진수의 수를 8진수,16진수로 출력하기 
-```sh
+```c
 #include <stdio.h>
 
 int main()
@@ -28,7 +28,7 @@ int main()
 }
 ```
 실수 출력하기
-```sh
+```c
 #include <stdio.h>
 
 int main()
