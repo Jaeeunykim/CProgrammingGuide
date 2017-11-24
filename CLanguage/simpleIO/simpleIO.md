@@ -12,7 +12,7 @@ int main()
 
 	reutrn 0;
 }
-````
+```
 
 ```sh
 #include <stdio.h>
@@ -28,9 +28,24 @@ int main()
 ```
 ## scanf함수 이용
 
-```sh
+
+숫자로 입력 받고 출력하기
+```c++
 #include <stdio.h>
 
+int main()
+{
+	int a;
+	printf("How old are you?\n");
+	scanf("%d", &a);
+	printf("Oh, Are you %d years old?\n", a);
+	return 0;
+}
+```
+
+문자로 입력 받고 출력하기
+```sh
+#include <stdio.h>
 int main()
 {
 	char name[10];
@@ -41,6 +56,8 @@ int main()
 	return 0;
 }
 ```
+
+
 
 ## 출력 서식 문자
  서식문자 | 출력 형태					 
