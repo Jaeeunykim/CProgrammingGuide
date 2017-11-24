@@ -12,7 +12,7 @@
   	* [VI란?]
 	* [VI 단축키]
 	* [VI 간단한 실습]
-* [C언어](./CLanguage/simpleIO/simpleIO.md)
+* [C언어](./CLanguage/README.md)
   * [간단한 입출력](./CLanguage/simpleIO/simpleIO.md)
     * [숫자출력](./CLanguage/simpleIO/printNum.md)
 	* [문자출력](./CLanguage/simpleIO/printChar.md))
