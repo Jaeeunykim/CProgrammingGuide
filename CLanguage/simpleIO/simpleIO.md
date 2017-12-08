@@ -10,7 +10,7 @@ int main()
 {
 	printf("Hello, World!\n");
 
-	reutrn 0;
+	return 0;
 }
 ```
 
@@ -23,7 +23,7 @@ int main()
 	printf("World!");
 	printf("\n");
 
-	reutrn 0;
+	return 0;
 }
 ```
 ## scanf함수 이용
